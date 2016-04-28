@@ -42,3 +42,7 @@ gem 'pry-rails'
 gem 'oauth'
 gem 'json'
 gem 'httpclient'
+
+#testing
+gem "rspec-rails"
+gem 'capybara'
