@@ -38,4 +38,6 @@ gem 'spring',        group: :development
 # Use debugger
 gem 'pry-rails'
 # gem 'debugger', group: [:development, :test]
-
+gem 'oauth'
+gem 'json'
+gem 'httpclient'
